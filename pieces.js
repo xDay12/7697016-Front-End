@@ -24,4 +24,3 @@ sectionFiches.appendChild(imageElement);
 sectionFiches.appendChild(nomElement);
 sectionFiches.appendChild(prixElement);
 sectionFiches.appendChild(categorieElement);
-document.body.appendChild(prixElement);
