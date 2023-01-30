@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "nom": "Ampoule caca LED",
+        "nom": "Ampoule LED",
         "prix": 60,
         "categorie": "Optiques",
         "image": "images/ampoule-led.png",
